@@ -13,23 +13,9 @@ PHP 5.5 and later
 ## Installation & Usage
 ### Composer
 
-To install the bindings via [Composer](http://getcomposer.org/), add the following to `composer.json`:
+To install the bindings via [Composer](http://getcomposer.org/), run
 
-```
-{
-  "repositories": [
-    {
-      "type": "git",
-      "url": "https://github.com//vismutx/easycredit-api-php.git"
-    }
-  ],
-  "require": {
-    "/vismutx/easycredit-api-php": "*@dev"
-  }
-}
-```
-
-Then run `composer install`
+`composer require vismutx/klarna-order-management-api-php`
 
 ### Manual Installation
 
